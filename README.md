@@ -1,3 +1,4 @@
+## There is a submit option in Overleaf to submit to arxiv. Use that to create .bbl files
 
 ## Description:
 
